@@ -6,7 +6,7 @@
 - 🌿 Advocate for wildlife conservation and ecosystem sustainability.
 
 ## My GitHub Journey
-GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilSelokar&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilSelokar&theme=radical)
 ## Let's Connect!
 - [LinkedIn](www.linkedin.com/in/sahilselokar03) - Let's grow our network!
 ## Fun Corner
