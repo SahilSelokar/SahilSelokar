@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in Artificial Inte
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/sahilselokar03)
+- [LinkedIn](sahilselokar03)
 - **Portfolio:** Coming soon!
 
 Feel free to explore my repositories, and don't hesitate to connect or collaborate! 😊
