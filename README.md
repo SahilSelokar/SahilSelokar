@@ -1,10 +1,41 @@
-# Hello World! I'm Sahil Selokar 🚀
-## Who Am I?
-- 🎓 AI Engineering student with a knack for **Web Development** and **Data Analytics**.
-- 🤖 Passionate about using AI to make a difference.
-- 🌿 Advocate for wildlife conservation and ecosystem sustainability.
-## Let's Connect!
-- [LinkedIn](www.linkedin.com/in/sahilselokar03) - Let's grow our network!
-## Fun Corner
-- 🎤 I enjoy singing and often cover songs from various genres.
-- 🎥 Videography is another passion of mine. I love capturing moments and bringing stories to life through my lens.
+👋 Hi, I'm Sahil Selokar
+AI/ML Enthusiast | Generative AI Innovator | Computer Vision Developer
+
+Welcome to my GitHub! I'm a passionate developer specializing in Artificial Intelligence, Machine Learning, and Deep Learning. My projects focus on creating intelligent, scalable solutions for real-world problems, with a keen interest in Generative AI, Large Language Models (LLMs), and Computer Vision.
+
+🔭 Current Focus
+Generative AI: Building models for text paraphrasing and sentiment analysis.
+Computer Vision: Developing deep learning solutions for retinal disease detection.
+Machine Learning Applications: Predictive analytics using Random Forest and other ML models.
+
+🌟 Featured Projects
+📝 RePhraseAI
+Generative AI for Text Paraphrasing and Sentiment Analysis
+
+Built using T5 Model for paraphrasing and SST-2/PAWS Dataset for sentiment analysis.
+Deployed with an interactive Gradio UI on Hugging Face.
+
+👁️ Retinal Disease Detection
+CNN-Based Diagnosis for Retinal Diseases
+
+Achieved 98% accuracy using data augmentation and pre-trained models like VGG16.
+Trained on the OCTDL Dataset with 7 disease categories.
+
+🚖 Taxi Fare Prediction
+Predictive Analytics Using Random Forest
+
+Designed a pipeline for data preprocessing and feature engineering.
+Achieved high prediction accuracy for taxi fare pricing.
+
+📚 Skills
+Programming: Python, C++, HTML, CSS, JavaScript
+Frameworks & Libraries: TensorFlow, OpenCV, Scikit-learn, Hugging Face, Gradio
+Tools: Docker, Tableau, Git
+Specialties: Generative AI, Computer Vision, Machine Learning, Deep Learning
+
+🌐 Connect with Me
+LinkedIn
+Portfolio (coming soon!)
+
+Feel free to explore my repositories, and don't hesitate to connect or collaborate! 😊
+
