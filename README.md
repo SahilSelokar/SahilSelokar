@@ -59,8 +59,7 @@ I architect systems that transform raw model capabilities into robust, scalable 
 
 ## Connect with Me
 I am actively designing the next generation of Agentic AI architectures. I welcome professional inquiries and collaborations.
-
-*   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2563EB?style=flat&logo=vercel)](https://sahilselokar-portfolio.vercel.app/)
+*   [![Visual Vortex](https://img.shields.io/badge/Visual_Vortex-Website-EA7252?style=flat&logo=vercel)](https://visualvortexcreatives.dev/)
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahil_Selokar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-selokar)
 *   [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-@SahilSelokar7-000000?style=flat&logo=x)](https://x.com/SahilSelokar7)
 *   [![Visual Vortex X](https://img.shields.io/badge/Visual_Vortex-X_(Twitter)-000000?style=flat&logo=x)](https://twitter.com/visualvortex)
